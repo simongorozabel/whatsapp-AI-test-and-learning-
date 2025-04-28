@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp_with_nodejs",
+  "version": "1.0.0",
+  "description": "connecting whatsapp API with a node.js backend to take control of the chatbot and in future versions, connect it with AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Simón Gorozabel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
